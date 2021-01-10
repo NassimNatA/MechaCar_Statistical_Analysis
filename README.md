@@ -37,5 +37,9 @@ Safety rating between MechaCar and top electric car company on the market in ord
 
 - What is the null hypothesis or alternative hypothesis?
 The null hypothesis (H0) is that the safety rating of all vehicles of MechaCar and electric car competitor will remain constant. The alternative hypothesis (Ha) is that the safety rating of  vehicles of the different companies will differ.
+
 - What statistical test would you use to test the hypothesis? And why?
+The statistical test used will be a T-test to compare the two car companies in safety ratings. The difference in safety rating of the MechaCar vs. the electric car competitor will tell demonsrate if MechaCar is provides safer vehicles than electric cars available on the market. 
+
 -What data is needed to run the statistical test?
+The data required is a sample dataset containing the types of vehicles in MecaCar vs. electric car competitor, the safety ratings within each category, and the years these safety ratings were assigned. 
