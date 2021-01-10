@@ -28,3 +28,14 @@ Given the requirementthat the variance of the suspension coils must not exceed 1
 ## T-Test Results 
 - Below is an example of the T-test results for Lot 3, the lot with the variance exceeding the accepted variance from MechaCar. By looking at its p-value with p = 0.0416 which is lower that 0.05. In this case, the null hypothesis can be rejected and we can conclude that there is a significantly differences between the suspension coil data set mean and its population mean as supported by the amount of variance since in this Lot from the summary statistics above.  
 ![alt_text](https://github.com/NassimNatA/MechaCar_Statistical_Analysis/blob/main/D3.png)
+
+## Study Design: MechaCar vs Competition
+A statistical study that can quantify how the MechaCar performs against the competition would be the following: 
+- What metric or metrics are you going to test?
+
+Safety rating between MechaCar and top electric car company on the market in order to determine safety evaluations between competitors as a highly regarded aspect of marketing for vehicles. 
+
+- What is the null hypothesis or alternative hypothesis?
+The null hypothesis (H0) is that the safety rating of all vehicles of MechaCar and electric car competitor will remain constant. The alternative hypothesis (Ha) is that the safety rating of  vehicles of the different companies will differ.
+- What statistical test would you use to test the hypothesis? And why?
+-What data is needed to run the statistical test?
