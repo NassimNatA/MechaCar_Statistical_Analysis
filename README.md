@@ -26,5 +26,5 @@ The linear regression results above demonstrate that the variables & coefficient
 Given the requirementthat the variance of the suspension coils must not exceed 100 pounds, the total variance shown in table 1 above demonstrates that this need is met. However, individually, Lot 3 is shown to have a variance of 170 would exceeds the acccepted about of variance and will not pass the design specification. 
 
 ## T-Test Results 
-Results for Lot3: 
+- Below is an example of the T-test results for Lot 3, the lot with the variance exceeding the accepted variance from MechaCar. By looking at its p-value with p = 0.0416 which is lower that 0.05. In this case, the null hypothesis can be 
 ![alt_text](https://github.com/NassimNatA/MechaCar_Statistical_Analysis/blob/main/D3.png)
